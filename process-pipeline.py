@@ -7,7 +7,7 @@
 # ## Introduction and learning goals <a name="in"></a>
 # <hr>
 # 
-# Welcome to the assignment! In this assignment, you will practice:
+# In this assignment, you will practice:
 # 
 # - Identify when to implement feature transformations such as imputation and scaling.
 # - Apply `sklearn.pipeline.Pipeline` to build a machine learning pipeline.
@@ -552,4 +552,4 @@ random_search.score(X_test, y_test)
 # 
 # There are also python libraries (like scikit-optimize, hyperopt, and hyperband) for optimization of hyperparameter search that use machine learning to predict what hyperparameters will perfomr best. Using them also could improve the score to some extent.
 
-# ### End
+# ### The End
