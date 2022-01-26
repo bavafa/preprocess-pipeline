@@ -1,5 +1,6 @@
 # preprocess-pipeline
-Preprocessing, Pipelines and Hyperparameter Tuning
+Preprocessing, Pipelines and Hyperparameter Tuning.
+
 This is project prepared for the BAIT 509: Business Applications of Machine Learning at UBC Sauder School of Business. 
 Dataset: https://www.kaggle.com/uciml/adult-census-income
 
